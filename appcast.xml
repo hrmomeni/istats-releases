@@ -6,6 +6,15 @@
         <description>iStats updates</description>
         <language>en</language>
         <item>
+            <title>iStats 1.0.6</title>
+            <pubDate>Mon, 16 Nov 2026 03:36:19 GMT</pubDate>
+            <sparkle:version>230</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Two custom links for the bottom of any menu, each with your own name and address (Settings › AI Usage › Custom links).</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/istats-releases/releases/download/v1.0.6/iStats-1.0.6.dmg" length="6857078" type="application/octet-stream" sparkle:edSignature="TGAVGZ9sBl77hXg01tVF+IoO7cgEJx3qEGIKYq/wXdV7/mvCEuQmkY4L96jnFQU0xbD92NUlREluqom9SYDlAw=="/>
+        </item>
+        <item>
             <title>iStats 1.0.5</title>
             <pubDate>Mon, 16 Nov 2026 03:20:55 GMT</pubDate>
             <sparkle:version>227</sparkle:version>
