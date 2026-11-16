@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>iStats</title>
+        <link>https://github.com/hrmomeni/istats-releases</link>
+        <description>iStats updates</description>
+        <language>en</language>
+        <item>
+            <title>iStats 1.0.5</title>
+            <pubDate>Mon, 16 Nov 2026 03:20:55 GMT</pubDate>
+            <sparkle:version>227</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>iStats now updates itself from GitHub (Check for Updates… in General › About or the right-click menu). AI Usage: the footer&#x27;s two links can be set in Settings › AI Usage › Links, and the week countdown no longer wraps.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/istats-releases/releases/download/v1.0.5/iStats-1.0.5.dmg" length="6836449" type="application/octet-stream" sparkle:edSignature="W6g3MIzKjm0cdHiYCCjDfLQAIa4o+cgwGTed/RDQvQQsJpiQz/65fZH4yupqDc8bdGDUZFRFIIHlNVrAdR9jDg=="/>
+        </item>
+    </channel>
+</rss>
